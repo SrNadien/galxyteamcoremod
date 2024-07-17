@@ -243,6 +243,8 @@ public class GalaxyCoreModItems {
 	public static final RegistryObject<Item> INFINITY_1PICK = REGISTRY.register("infinity_1pick", () -> new Infinity1pickItem());
 	public static final RegistryObject<Item> ABSOLUTE_PLATE = REGISTRY.register("absolute_plate", () -> new AbsolutePlateItem());
 	public static final RegistryObject<Item> CACOTA = REGISTRY.register("cacota", () -> new CacotaItem());
+	public static final RegistryObject<Item> GALAXY_POP_NADIEN = block(GalaxyCoreModBlocks.GALAXY_POP_NADIEN);
+	public static final RegistryObject<Item> FUNKITO_NADIEN = block(GalaxyCoreModBlocks.FUNKITO_NADIEN);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

@@ -525,17 +525,17 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "enchanted_golden_apple": "2024-07-16 22:50:35 -0300"
-    },
-    "done": false
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-07-16 22:45:58 -0300"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2024-07-16 22:50:35 -0300"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
