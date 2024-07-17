@@ -1,1 +1,4 @@
 # galxyteamcoremod
+
+
+creado para algo
