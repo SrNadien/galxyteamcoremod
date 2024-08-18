@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "galaxy_core:block/legendary_purple_ore___m_blocktexture_8f6c0f73-48b2-45a9-a00a-1841e240f218",
+    "up": "galaxy_core:block/legendary_purple_ore___m_blocktexture_8f6c0f73-48b2-45a9-a00a-1841e240f218",
+    "north": "galaxy_core:block/legendary_purple_ore___m_blocktexture_8f6c0f73-48b2-45a9-a00a-1841e240f218",
+    "east": "galaxy_core:block/legendary_purple_ore___m_blocktexture_8f6c0f73-48b2-45a9-a00a-1841e240f218",
+    "south": "galaxy_core:block/legendary_purple_ore___m_blocktexture_8f6c0f73-48b2-45a9-a00a-1841e240f218",
+    "west": "galaxy_core:block/legendary_purple_ore___m_blocktexture_8f6c0f73-48b2-45a9-a00a-1841e240f218",
+    "particle": "galaxy_core:block/legendary_purple_ore___m_blocktexture_8f6c0f73-48b2-45a9-a00a-1841e240f218"
+  },
+  "render_type": "solid"
+}

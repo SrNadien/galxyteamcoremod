@@ -15,7 +15,7 @@
     "hidden": false
   },
   "criteria": {
-    "super_cacotas": {
+    "super_cacotas_0": {
       "trigger": "minecraft:consume_item",
       "conditions": {
         "item": {

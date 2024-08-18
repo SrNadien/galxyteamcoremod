@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "tool",
   "definition": {
     "toolType": "Sword",
@@ -12,21 +12,23 @@
     "specialInformation": {
       "fixedValue": []
     },
-    "creativeTab": {
-      "value": "CUSTOM:GalaxyArmas"
-    },
-    "harvestLevel": 0,
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:GalaxyArmas"
+      }
+    ],
     "efficiency": 0.0,
     "attackSpeed": 1.6,
     "enchantability": 12,
     "damageVsEntity": 309.0,
     "usageCount": 0,
-    "blocksAffected": [],
     "glowCondition": {
       "fixedValue": false
     },
     "repairItems": [],
     "immuneToFire": true,
+    "blockDropsTier": "WOOD",
+    "blocksAffected": [],
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
   }

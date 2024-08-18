@@ -507,15 +507,9 @@
     },
     "done": true
   },
-  "galaxy_core:super_cacotas": {
-    "criteria": {
-      "super_cacotas": "2024-07-16 22:20:02 -0300"
-    },
-    "done": true
-  },
   "galaxy_core:eresunviciao": {
     "criteria": {
-      "eresunviciao": "2024-07-16 22:28:26 -0300"
+      "eresunviciao_0": "2024-08-18 06:01:51 -0300"
     },
     "done": true
   },

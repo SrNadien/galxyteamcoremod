@@ -116,8 +116,8 @@ public class GalaxyCoreModVariables {
 			return nbt;
 		}
 
-		public void readNBT(Tag Tag) {
-			CompoundTag nbt = (CompoundTag) Tag;
+		public void readNBT(Tag tag) {
+			CompoundTag nbt = (CompoundTag) tag;
 			prubin = Direction.from3DDataValue(nbt.getInt("prubin"));
 		}
 	}

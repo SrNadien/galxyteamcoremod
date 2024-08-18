@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "galaxy_core:block/galaxy_ore"
+    }
+  }
+}

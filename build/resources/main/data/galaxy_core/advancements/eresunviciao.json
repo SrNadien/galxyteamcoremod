@@ -15,7 +15,7 @@
     "hidden": false
   },
   "criteria": {
-    "eresunviciao": {
+    "eresunviciao_0": {
       "trigger": "minecraft:placed_block",
       "conditions": {
         "location": [

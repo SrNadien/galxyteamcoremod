@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "galaxy_core:vanguardaxe",
+    "galaxy_core:braveheartaxe",
+    "galaxy_core:volcanicaxe",
+    "galaxy_core:hellfirepickaxe"
+  ]
+}

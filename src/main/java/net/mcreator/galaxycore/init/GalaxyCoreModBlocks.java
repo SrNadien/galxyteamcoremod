@@ -13,6 +13,7 @@ import net.minecraft.world.level.block.Block;
 import net.mcreator.galaxycore.block.SexyXDBlock;
 import net.mcreator.galaxycore.block.PruebaaBlock;
 import net.mcreator.galaxycore.block.GalaxyPopNadienBlock;
+import net.mcreator.galaxycore.block.GalaxyOreBlock;
 import net.mcreator.galaxycore.block.FunkitoNadienBlock;
 import net.mcreator.galaxycore.block.BloqueBlock;
 import net.mcreator.galaxycore.GalaxyCoreMod;
@@ -24,4 +25,7 @@ public class GalaxyCoreModBlocks {
 	public static final RegistryObject<Block> BLOQUE = REGISTRY.register("bloque", () -> new BloqueBlock());
 	public static final RegistryObject<Block> GALAXY_POP_NADIEN = REGISTRY.register("galaxy_pop_nadien", () -> new GalaxyPopNadienBlock());
 	public static final RegistryObject<Block> FUNKITO_NADIEN = REGISTRY.register("funkito_nadien", () -> new FunkitoNadienBlock());
+	public static final RegistryObject<Block> GALAXY_ORE = REGISTRY.register("galaxy_ore", () -> new GalaxyOreBlock());
+	// Start of user code block custom blocks
+	// End of user code block custom blocks
 }

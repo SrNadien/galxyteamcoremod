@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "galaxy_core:infinitysword_1",
+    "galaxy_core:infinityswordbalanced",
+    "galaxy_core:vanguardsword",
+    "galaxy_core:braveheartsword",
+    "galaxy_core:braveheart",
+    "galaxy_core:volcanicblade",
+    "galaxy_core:frozenblade",
+    "galaxy_core:ironheartsword",
+    "galaxy_core:hellfirepickaxe",
+    "galaxy_core:hellfiresword",
+    "galaxy_core:golden_blade",
+    "galaxy_core:guantelete"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "_fv": 57,
+  "_fv": 66,
   "_type": "item",
   "definition": {
     "renderType": 0,
@@ -9,9 +9,11 @@
     "states": [],
     "name": "super caca",
     "rarity": "EPIC",
-    "creativeTab": {
-      "value": "CUSTOM:GalaxyExtra"
-    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:GalaxyExtra"
+      }
+    ],
     "stackSize": 64,
     "enchantability": 0,
     "useDuration": 32,
@@ -42,6 +44,7 @@
     },
     "enableRanged": false,
     "shootConstantly": false,
+    "rangedItemChargesPower": false,
     "projectile": {
       "value": "Arrow"
     },

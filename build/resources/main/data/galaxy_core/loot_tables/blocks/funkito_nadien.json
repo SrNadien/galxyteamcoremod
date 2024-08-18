@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "galaxy_core:blocks/funkito_nadien",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "galaxy_core:funkito_nadien"
+        }
+      ]
+    }
+  ]
+}

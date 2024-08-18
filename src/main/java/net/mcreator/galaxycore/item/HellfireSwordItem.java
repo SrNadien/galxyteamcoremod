@@ -24,7 +24,7 @@ public class HellfireSwordItem extends SwordItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 33f;
+				return 31f;
 			}
 
 			public int getLevel() {
@@ -42,8 +42,8 @@ public class HellfireSwordItem extends SwordItem {
 	}
 
 	@Override
-	public void appendHoverText(ItemStack itemstack, Level world, List<Component> list, TooltipFlag flag) {
-		super.appendHoverText(itemstack, world, list, flag);
+	public void appendHoverText(ItemStack itemstack, Level level, List<Component> list, TooltipFlag flag) {
+		super.appendHoverText(itemstack, level, list, flag);
 		list.add(Component.literal("\u00A76Forjada en el coraz\u00F3n"));
 		list.add(Component.literal("\u00A76de un volc\u00E1n moribundo"));
 	}

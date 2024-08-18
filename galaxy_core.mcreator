@@ -3,21 +3,19 @@
     {
       "name": "Hub",
       "type": "item",
-      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hub",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/hub.json",
-          "src/main/java/net/mcreator/galaxycore/item/HubItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/HubItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/hub.json"
         ]
       }
     },
     {
       "name": "GalaxyTab",
       "type": "tab",
-      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "galaxy_tab",
@@ -28,7 +26,6 @@
     {
       "name": "Starlight",
       "type": "item",
-      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "registry_name": "starlight",
@@ -42,14 +39,13 @@
     {
       "name": "CajitaFeliz",
       "type": "item",
-      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cajita_feliz",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/CajitaFelizItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/cajita_feliz.json"
+          "src/main/resources/assets/galaxy_core/models/item/cajita_feliz.json",
+          "src/main/java/net/mcreator/galaxycore/item/CajitaFelizItem.java"
         ]
       },
       "path": "~/Items"
@@ -57,7 +53,6 @@
     {
       "name": "MonsterEnergy",
       "type": "item",
-      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "registry_name": "monster_energy",
@@ -72,7 +67,6 @@
     {
       "name": "Sandwichito",
       "type": "item",
-      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sandwichito",
@@ -87,21 +81,19 @@
     {
       "name": "AmethystStarlight",
       "type": "item",
-      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "amethyst_starlight",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/amethyst_starlight.json",
-          "src/main/java/net/mcreator/galaxycore/item/AmethystStarlightItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/AmethystStarlightItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/amethyst_starlight.json"
         ]
       }
     },
     {
       "name": "Guantelete",
       "type": "tool",
-      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "guantelete",
@@ -116,7 +108,6 @@
     {
       "name": "Catalizador",
       "type": "item",
-      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "catalizador",
@@ -131,7 +122,6 @@
     {
       "name": "BrujulaMaldita",
       "type": "item",
-      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "brujula_maldita",
@@ -146,7 +136,6 @@
     {
       "name": "CalaveraOscura",
       "type": "item",
-      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "calavera_oscura",
@@ -161,14 +150,13 @@
     {
       "name": "AgujeroNegro",
       "type": "item",
-      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "agujero_negro",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/AgujeroNegroItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/agujero_negro.json"
+          "src/main/resources/assets/galaxy_core/models/item/agujero_negro.json",
+          "src/main/java/net/mcreator/galaxycore/item/AgujeroNegroItem.java"
         ]
       },
       "path": "~/Items Extras"
@@ -176,7 +164,6 @@
     {
       "name": "AlmaDeDragon",
       "type": "item",
-      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "alma_de_dragon",
@@ -191,7 +178,6 @@
     {
       "name": "AntiMateria",
       "type": "item",
-      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "anti_materia",
@@ -206,14 +192,13 @@
     {
       "name": "CombustibleRadiactivo",
       "type": "item",
-      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "combustible_radiactivo",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/CombustibleRadiactivoItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/combustible_radiactivo.json"
+          "src/main/resources/assets/galaxy_core/models/item/combustible_radiactivo.json",
+          "src/main/java/net/mcreator/galaxycore/item/CombustibleRadiactivoItem.java"
         ]
       },
       "path": "~/Items Extras"
@@ -221,14 +206,13 @@
     {
       "name": "PatricioEstrella",
       "type": "item",
-      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "patricio_estrella",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/patricio_estrella.json",
-          "src/main/java/net/mcreator/galaxycore/item/PatricioEstrellaItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/PatricioEstrellaItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/patricio_estrella.json"
         ]
       },
       "path": "~/Items Extras"
@@ -236,14 +220,13 @@
     {
       "name": "MiniReactor",
       "type": "item",
-      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mini_reactor",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/mini_reactor.json",
-          "src/main/java/net/mcreator/galaxycore/item/MiniReactorItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/MiniReactorItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/mini_reactor.json"
         ]
       },
       "path": "~/Items Extras"
@@ -251,14 +234,13 @@
     {
       "name": "MiniPortal",
       "type": "item",
-      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mini_portal",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/mini_portal.json",
-          "src/main/java/net/mcreator/galaxycore/item/MiniPortalItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/MiniPortalItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/mini_portal.json"
         ]
       },
       "path": "~/Items Extras"
@@ -266,7 +248,6 @@
     {
       "name": "Planos",
       "type": "item",
-      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "planos",
@@ -281,14 +262,13 @@
     {
       "name": "PepitaDeMegaEstrella",
       "type": "item",
-      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_de_mega_estrella",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/pepita_de_mega_estrella.json",
-          "src/main/java/net/mcreator/galaxycore/item/PepitaDeMegaEstrellaItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/PepitaDeMegaEstrellaItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/pepita_de_mega_estrella.json"
         ]
       },
       "path": "~/Items Extras"
@@ -296,7 +276,6 @@
     {
       "name": "Transmisor",
       "type": "item",
-      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "registry_name": "transmisor",
@@ -311,7 +290,6 @@
     {
       "name": "Semilla",
       "type": "item",
-      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "registry_name": "semilla",
@@ -326,14 +304,13 @@
     {
       "name": "SuperSemilla",
       "type": "item",
-      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "registry_name": "super_semilla",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/super_semilla.json",
-          "src/main/java/net/mcreator/galaxycore/item/SuperSemillaItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/SuperSemillaItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/super_semilla.json"
         ]
       },
       "path": "~/Items Extras"
@@ -341,7 +318,6 @@
     {
       "name": "MunecoDePaja",
       "type": "item",
-      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "registry_name": "muneco_de_paja",
@@ -356,7 +332,6 @@
     {
       "name": "BuscadorDelUniverso",
       "type": "item",
-      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "registry_name": "buscador_del_universo",
@@ -371,21 +346,19 @@
     {
       "name": "Hub1",
       "type": "item",
-      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hub_1",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/Hub1Item.java",
-          "src/main/resources/assets/galaxy_core/models/item/hub_1.json"
+          "src/main/resources/assets/galaxy_core/models/item/hub_1.json",
+          "src/main/java/net/mcreator/galaxycore/item/Hub1Item.java"
         ]
       }
     },
     {
       "name": "GalaxyExtra",
       "type": "tab",
-      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "galaxy_extra",
@@ -396,7 +369,6 @@
     {
       "name": "LingoteNeutralTier1",
       "type": "item",
-      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lingote_neutral_tier_1",
@@ -411,16 +383,16 @@
     {
       "name": "SexyXD",
       "type": "block",
-      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sexy_xd",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/sexy_xd.json",
           "src/main/resources/assets/galaxy_core/models/block/sexy_xd.json",
+          "src/main/resources/assets/galaxy_core/models/item/sexy_xd.json",
           "src/main/resources/assets/galaxy_core/blockstates/sexy_xd.json",
-          "src/main/java/net/mcreator/galaxycore/block/SexyXDBlock.java"
+          "src/main/java/net/mcreator/galaxycore/block/SexyXDBlock.java",
+          "src/main/resources/data/galaxy_core/loot_tables/blocks/sexy_xd.json"
         ]
       },
       "path": "~/Items Extras"
@@ -428,14 +400,13 @@
     {
       "name": "Doritos",
       "type": "item",
-      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "doritos",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/doritos.json",
-          "src/main/java/net/mcreator/galaxycore/item/DoritosItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/DoritosItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/doritos.json"
         ]
       },
       "path": "~/Items"
@@ -443,7 +414,6 @@
     {
       "name": "Moneda",
       "type": "item",
-      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "moneda",
@@ -458,14 +428,13 @@
     {
       "name": "HierroPulsante",
       "type": "item",
-      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hierro_pulsante",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/hierro_pulsante.json",
-          "src/main/java/net/mcreator/galaxycore/item/HierroPulsanteItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/HierroPulsanteItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/hierro_pulsante.json"
         ]
       },
       "path": "~/Items Extras"
@@ -473,7 +442,6 @@
     {
       "name": "RedstoneAlloy",
       "type": "item",
-      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "redstone_alloy",
@@ -488,14 +456,13 @@
     {
       "name": "EnergeticAlloy",
       "type": "item",
-      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "energetic_alloy",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/EnergeticAlloyItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/energetic_alloy.json"
+          "src/main/resources/assets/galaxy_core/models/item/energetic_alloy.json",
+          "src/main/java/net/mcreator/galaxycore/item/EnergeticAlloyItem.java"
         ]
       },
       "path": "~/Items Extras"
@@ -503,7 +470,6 @@
     {
       "name": "VibrantAlloy",
       "type": "item",
-      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "vibrant_alloy",
@@ -518,14 +484,13 @@
     {
       "name": "Soularium",
       "type": "item",
-      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "soularium",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/SoulariumItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/soularium.json"
+          "src/main/resources/assets/galaxy_core/models/item/soularium.json",
+          "src/main/java/net/mcreator/galaxycore/item/SoulariumItem.java"
         ]
       },
       "path": "~/Items Extras"
@@ -533,14 +498,13 @@
     {
       "name": "StellarAlloy",
       "type": "item",
-      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "stellar_alloy",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/StellarAlloyItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/stellar_alloy.json"
+          "src/main/resources/assets/galaxy_core/models/item/stellar_alloy.json",
+          "src/main/java/net/mcreator/galaxycore/item/StellarAlloyItem.java"
         ]
       },
       "path": "~/Items Extras"
@@ -548,14 +512,13 @@
     {
       "name": "PepitaPulsante",
       "type": "item",
-      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_pulsante",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/PepitaPulsanteItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/pepita_pulsante.json"
+          "src/main/resources/assets/galaxy_core/models/item/pepita_pulsante.json",
+          "src/main/java/net/mcreator/galaxycore/item/PepitaPulsanteItem.java"
         ]
       },
       "path": "~/Items Extras"
@@ -563,14 +526,13 @@
     {
       "name": "PepitaEnergetica",
       "type": "item",
-      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_energetica",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/PepitaEnergeticaItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/pepita_energetica.json"
+          "src/main/resources/assets/galaxy_core/models/item/pepita_energetica.json",
+          "src/main/java/net/mcreator/galaxycore/item/PepitaEnergeticaItem.java"
         ]
       },
       "path": "~/Items Extras"
@@ -578,7 +540,6 @@
     {
       "name": "PepitaVibrante",
       "type": "item",
-      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_vibrante",
@@ -593,7 +554,6 @@
     {
       "name": "PepitaDeAlmas",
       "type": "item",
-      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_de_almas",
@@ -608,14 +568,13 @@
     {
       "name": "PepitaEstelar",
       "type": "item",
-      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_estelar",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/PepitaEstelarItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/pepita_estelar.json"
+          "src/main/resources/assets/galaxy_core/models/item/pepita_estelar.json",
+          "src/main/java/net/mcreator/galaxycore/item/PepitaEstelarItem.java"
         ]
       },
       "path": "~/Items Extras"
@@ -623,7 +582,6 @@
     {
       "name": "HierroConductor",
       "type": "item",
-      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hierro_conductor",
@@ -638,7 +596,6 @@
     {
       "name": "PepitaConductora",
       "type": "item",
-      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_conductora",
@@ -653,14 +610,13 @@
     {
       "name": "MelodicAlloy",
       "type": "item",
-      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "melodic_alloy",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/MelodicAlloyItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/melodic_alloy.json"
+          "src/main/resources/assets/galaxy_core/models/item/melodic_alloy.json",
+          "src/main/java/net/mcreator/galaxycore/item/MelodicAlloyItem.java"
         ]
       },
       "path": "~/Items Extras"
@@ -668,14 +624,13 @@
     {
       "name": "MelodicAlloyNugget",
       "type": "item",
-      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "melodic_alloy_nugget",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/MelodicAlloyNuggetItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/melodic_alloy_nugget.json"
+          "src/main/resources/assets/galaxy_core/models/item/melodic_alloy_nugget.json",
+          "src/main/java/net/mcreator/galaxycore/item/MelodicAlloyNuggetItem.java"
         ]
       },
       "path": "~/Items Extras"
@@ -683,14 +638,13 @@
     {
       "name": "DarkSteel",
       "type": "item",
-      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_steel",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/dark_steel.json",
-          "src/main/java/net/mcreator/galaxycore/item/DarkSteelItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/DarkSteelItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/dark_steel.json"
         ]
       },
       "path": "~/Items Extras"
@@ -698,7 +652,6 @@
     {
       "name": "DarkSteelNugget",
       "type": "item",
-      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_steel_nugget",
@@ -713,14 +666,13 @@
     {
       "name": "EndSteelAlloy",
       "type": "item",
-      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "end_steel_alloy",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/end_steel_alloy.json",
-          "src/main/java/net/mcreator/galaxycore/item/EndSteelAlloyItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/EndSteelAlloyItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/end_steel_alloy.json"
         ]
       },
       "path": "~/Items Extras"
@@ -728,7 +680,6 @@
     {
       "name": "EndSteelNugget",
       "type": "item",
-      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "end_steel_nugget",
@@ -743,14 +694,13 @@
     {
       "name": "EnderiumBase",
       "type": "item",
-      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "enderium_base",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/enderium_base.json",
-          "src/main/java/net/mcreator/galaxycore/item/EnderiumBaseItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/EnderiumBaseItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/enderium_base.json"
         ]
       },
       "path": "~/Items Extras"
@@ -758,7 +708,6 @@
     {
       "name": "SuperCaca",
       "type": "item",
-      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "super_caca",
@@ -772,7 +721,6 @@
     {
       "name": "PepitaPulsanteReceta",
       "type": "recipe",
-      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_pulsante_receta",
@@ -786,7 +734,6 @@
     {
       "name": "PepitaEnergeticaReceta",
       "type": "recipe",
-      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_energetica_receta",
@@ -800,7 +747,6 @@
     {
       "name": "PepitaVibranteReceta",
       "type": "recipe",
-      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_vibrante_receta",
@@ -814,7 +760,6 @@
     {
       "name": "PepitasDeAlmasReceta",
       "type": "recipe",
-      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepitas_de_almas_receta",
@@ -828,7 +773,6 @@
     {
       "name": "PepitaEstelarReceta",
       "type": "recipe",
-      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_estelar_receta",
@@ -842,7 +786,6 @@
     {
       "name": "PepitaConductoraReceta",
       "type": "recipe",
-      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_conductora_receta",
@@ -856,7 +799,6 @@
     {
       "name": "DarkSteelPepitaReceta",
       "type": "recipe",
-      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_steel_pepita_receta",
@@ -870,7 +812,6 @@
     {
       "name": "PepitaMellodicAlloyReceta",
       "type": "recipe",
-      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_mellodic_alloy_receta",
@@ -884,7 +825,6 @@
     {
       "name": "DarkSteelIngotReceta",
       "type": "recipe",
-      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_steel_ingot_receta",
@@ -898,7 +838,6 @@
     {
       "name": "PepitaEndSteelReceta",
       "type": "recipe",
-      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_end_steel_receta",
@@ -912,14 +851,13 @@
     {
       "name": "RedstoneAlloyNugget",
       "type": "item",
-      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "redstone_alloy_nugget",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/redstone_alloy_nugget.json",
-          "src/main/java/net/mcreator/galaxycore/item/RedstoneAlloyNuggetItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/RedstoneAlloyNuggetItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/redstone_alloy_nugget.json"
         ]
       },
       "path": "~/Items Extras"
@@ -927,7 +865,6 @@
     {
       "name": "PepitaRedstoneAlloyReceta",
       "type": "recipe",
-      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pepita_redstone_alloy_receta",
@@ -941,7 +878,6 @@
     {
       "name": "PulsanteIngotReceta",
       "type": "recipe",
-      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pulsante_ingot_receta",
@@ -955,7 +891,6 @@
     {
       "name": "EnergeticIngotReceta",
       "type": "recipe",
-      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "energetic_ingot_receta",
@@ -969,7 +904,6 @@
     {
       "name": "VibranteIngotReceta",
       "type": "recipe",
-      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "vibrante_ingot_receta",
@@ -983,7 +917,6 @@
     {
       "name": "SoulingotReceta",
       "type": "recipe",
-      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "soulingot_receta",
@@ -997,7 +930,6 @@
     {
       "name": "EstelarIngotReceta",
       "type": "recipe",
-      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "estelar_ingot_receta",
@@ -1011,7 +943,6 @@
     {
       "name": "ConductorIngotReceta",
       "type": "recipe",
-      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "conductor_ingot_receta",
@@ -1025,7 +956,6 @@
     {
       "name": "MellodicIngotReceta",
       "type": "recipe",
-      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mellodic_ingot_receta",
@@ -1039,7 +969,6 @@
     {
       "name": "EndStellIngot",
       "type": "recipe",
-      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "end_stell_ingot",
@@ -1053,7 +982,6 @@
     {
       "name": "RedstoneIngotReceta",
       "type": "recipe",
-      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "redstone_ingot_receta",
@@ -1067,7 +995,6 @@
     {
       "name": "Shuerk",
       "type": "painting",
-      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "registry_name": "shuerk",
@@ -1079,7 +1006,6 @@
     {
       "name": "SuperCacapotion",
       "type": "procedure",
-      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "registry_name": "super_cacapotion",
@@ -1098,7 +1024,6 @@
     {
       "name": "ReManija",
       "type": "procedure",
-      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "registry_name": "re_manija",
@@ -1118,7 +1043,6 @@
     {
       "name": "CajitaFelizReceta",
       "type": "recipe",
-      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cajita_feliz_receta",
@@ -1132,7 +1056,6 @@
     {
       "name": "DoritosReceta",
       "type": "recipe",
-      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "doritos_receta",
@@ -1146,7 +1069,6 @@
     {
       "name": "SuperHappyCajitaFeliz",
       "type": "procedure",
-      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "registry_name": "super_happy_cajita_feliz",
@@ -1182,7 +1104,6 @@
     {
       "name": "GoldenBlade",
       "type": "tool",
-      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "golden_blade",
@@ -1196,21 +1117,19 @@
     {
       "name": "Hub2",
       "type": "item",
-      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hub_2",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/hub_2.json",
-          "src/main/java/net/mcreator/galaxycore/item/Hub2Item.java"
+          "src/main/java/net/mcreator/galaxycore/item/Hub2Item.java",
+          "src/main/resources/assets/galaxy_core/models/item/hub_2.json"
         ]
       }
     },
     {
       "name": "GalaxyArmas",
       "type": "tab",
-      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "registry_name": "galaxy_armas",
@@ -1221,7 +1140,6 @@
     {
       "name": "Hub3",
       "type": "item",
-      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hubgreen",
@@ -1235,21 +1153,19 @@
     {
       "name": "Hub4",
       "type": "item",
-      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hub_4",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/Hub4Item.java",
-          "src/main/resources/assets/galaxy_core/models/item/hub_4.json"
+          "src/main/resources/assets/galaxy_core/models/item/hub_4.json",
+          "src/main/java/net/mcreator/galaxycore/item/Hub4Item.java"
         ]
       }
     },
     {
       "name": "GalaxyOres",
       "type": "tab",
-      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "registry_name": "galaxy_ores",
@@ -1260,7 +1176,6 @@
     {
       "name": "McCaco",
       "type": "musicdisc",
-      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mc_caco",
@@ -1275,14 +1190,13 @@
     {
       "name": "HellfireSword",
       "type": "tool",
-      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hellfiresword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/hellfiresword.json",
-          "src/main/java/net/mcreator/galaxycore/item/HellfireSwordItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/HellfireSwordItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/hellfiresword.json"
         ]
       },
       "path": "~/Armas"
@@ -1290,7 +1204,6 @@
     {
       "name": "HellfirePickaxe",
       "type": "tool",
-      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hellfirepickaxe",
@@ -1305,7 +1218,6 @@
     {
       "name": "HellfirePickaxeAlRomperUnBloqueConLaHerramienta",
       "type": "procedure",
-      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hellfire_pickaxe_al_romper_un_bloque_con_la_herramienta",
@@ -1341,14 +1253,13 @@
     {
       "name": "Panchito",
       "type": "item",
-      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "panchito",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/PanchitoItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/panchito.json"
+          "src/main/resources/assets/galaxy_core/models/item/panchito.json",
+          "src/main/java/net/mcreator/galaxycore/item/PanchitoItem.java"
         ]
       },
       "path": "~/Items"
@@ -1356,7 +1267,6 @@
     {
       "name": "ElectricalsteelIngot",
       "type": "item",
-      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "electricalsteel_ingot",
@@ -1371,14 +1281,13 @@
     {
       "name": "ElectricalSteelNugget",
       "type": "item",
-      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "registry_name": "electrical_steel_nugget",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/ElectricalSteelNuggetItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/electrical_steel_nugget.json"
+          "src/main/resources/assets/galaxy_core/models/item/electrical_steel_nugget.json",
+          "src/main/java/net/mcreator/galaxycore/item/ElectricalSteelNuggetItem.java"
         ]
       },
       "path": "~/Items Extras"
@@ -1386,7 +1295,6 @@
     {
       "name": "ElectricalAlloyIngot",
       "type": "recipe",
-      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "registry_name": "electrical_alloy_ingot",
@@ -1400,7 +1308,6 @@
     {
       "name": "ElectricalSteelNugge",
       "type": "recipe",
-      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "registry_name": "electrical_steel_nugge",
@@ -1414,23 +1321,22 @@
     {
       "name": "Pruebaa",
       "type": "block",
-      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "registry_name": "pruebaa",
       "metadata": {
         "files": [
+          "src/main/resources/assets/galaxy_core/models/block/pruebaa.json",
           "src/main/resources/assets/galaxy_core/models/item/pruebaa.json",
           "src/main/resources/assets/galaxy_core/blockstates/pruebaa.json",
-          "src/main/resources/assets/galaxy_core/models/block/pruebaa.json",
-          "src/main/java/net/mcreator/galaxycore/block/PruebaaBlock.java"
+          "src/main/java/net/mcreator/galaxycore/block/PruebaaBlock.java",
+          "src/main/resources/data/galaxy_core/loot_tables/blocks/pruebaa.json"
         ]
       }
     },
     {
       "name": "Cofrecito",
       "type": "item",
-      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cofrecito",
@@ -1444,14 +1350,13 @@
     {
       "name": "IronheartSword",
       "type": "tool",
-      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ironheartsword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/ironheartsword.json",
-          "src/main/java/net/mcreator/galaxycore/item/IronheartSwordItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/IronheartSwordItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/ironheartsword.json"
         ]
       },
       "path": "~/Armas"
@@ -1459,7 +1364,6 @@
     {
       "name": "FrozenBlade",
       "type": "tool",
-      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frozenblade",
@@ -1474,14 +1378,13 @@
     {
       "name": "KnightsSword",
       "type": "item",
-      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "registry_name": "knightssword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/knightssword.json",
-          "src/main/java/net/mcreator/galaxycore/item/KnightsSwordItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/KnightsSwordItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/knightssword.json"
         ]
       },
       "path": "~/Armas"
@@ -1489,14 +1392,13 @@
     {
       "name": "VolcanicBlade",
       "type": "tool",
-      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "registry_name": "volcanicblade",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/volcanicblade.json",
-          "src/main/java/net/mcreator/galaxycore/item/VolcanicBladeItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/VolcanicBladeItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/volcanicblade.json"
         ]
       },
       "path": "~/Armas"
@@ -1504,7 +1406,6 @@
     {
       "name": "VolcanicOre",
       "type": "item",
-      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "registry_name": "volcanic_ore",
@@ -1519,7 +1420,6 @@
     {
       "name": "VolcanicAxe",
       "type": "tool",
-      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "registry_name": "volcanicaxe",
@@ -1534,16 +1434,16 @@
     {
       "name": "Bloque",
       "type": "block",
-      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "registry_name": "bloque",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/block/BloqueBlock.java",
-          "src/main/resources/assets/galaxy_core/models/item/bloque.json",
+          "src/main/resources/assets/galaxy_core/models/block/bloque.json",
           "src/main/resources/assets/galaxy_core/blockstates/bloque.json",
-          "src/main/resources/assets/galaxy_core/models/block/bloque.json"
+          "src/main/resources/data/galaxy_core/loot_tables/blocks/bloque.json",
+          "src/main/java/net/mcreator/galaxycore/block/BloqueBlock.java",
+          "src/main/resources/assets/galaxy_core/models/item/bloque.json"
         ]
       },
       "path": "~/Items"
@@ -1551,14 +1451,13 @@
     {
       "name": "KeyRojo",
       "type": "item",
-      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "registry_name": "key_rojo",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/KeyRojoItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/key_rojo.json"
+          "src/main/resources/assets/galaxy_core/models/item/key_rojo.json",
+          "src/main/java/net/mcreator/galaxycore/item/KeyRojoItem.java"
         ]
       },
       "path": "~/Items"
@@ -1566,7 +1465,6 @@
     {
       "name": "KeyAmarilla",
       "type": "item",
-      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "registry_name": "key_amarilla",
@@ -1581,7 +1479,6 @@
     {
       "name": "KeyMadera",
       "type": "item",
-      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "registry_name": "key_madera",
@@ -1596,7 +1493,6 @@
     {
       "name": "KeyRosa",
       "type": "item",
-      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "registry_name": "key_rosa",
@@ -1611,7 +1507,6 @@
     {
       "name": "KeyMorada",
       "type": "item",
-      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "registry_name": "key_morada",
@@ -1626,7 +1521,6 @@
     {
       "name": "KeyVerde",
       "type": "item",
-      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "registry_name": "key_verde",
@@ -1641,7 +1535,6 @@
     {
       "name": "Braveheart",
       "type": "tool",
-      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "registry_name": "braveheart",
@@ -1656,14 +1549,13 @@
     {
       "name": "Braveheartpickaxe",
       "type": "tool",
-      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "registry_name": "braveheartpickaxe",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/BraveheartpickaxeItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/braveheartpickaxe.json"
+          "src/main/resources/assets/galaxy_core/models/item/braveheartpickaxe.json",
+          "src/main/java/net/mcreator/galaxycore/item/BraveheartpickaxeItem.java"
         ]
       },
       "path": "~/Armas"
@@ -1671,7 +1563,6 @@
     {
       "name": "BraveheartAxe",
       "type": "tool",
-      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "registry_name": "braveheartaxe",
@@ -1686,7 +1577,6 @@
     {
       "name": "BraveheartSword",
       "type": "tool",
-      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "registry_name": "braveheartsword",
@@ -1701,14 +1591,13 @@
     {
       "name": "VanguardSword",
       "type": "tool",
-      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "registry_name": "vanguardsword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/vanguardsword.json",
-          "src/main/java/net/mcreator/galaxycore/item/VanguardSwordItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/VanguardSwordItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/vanguardsword.json"
         ]
       },
       "path": "~/Armas"
@@ -1716,14 +1605,13 @@
     {
       "name": "VanguardPickaxe",
       "type": "tool",
-      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "registry_name": "vanguardpickaxe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/vanguardpickaxe.json",
-          "src/main/java/net/mcreator/galaxycore/item/VanguardPickaxeItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/VanguardPickaxeItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/vanguardpickaxe.json"
         ]
       },
       "path": "~/Armas"
@@ -1731,7 +1619,6 @@
     {
       "name": "VanguardAxe",
       "type": "tool",
-      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "registry_name": "vanguardaxe",
@@ -1746,7 +1633,6 @@
     {
       "name": "VanguardIngot",
       "type": "item",
-      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "registry_name": "vanguardingot",
@@ -1761,7 +1647,6 @@
     {
       "name": "Token",
       "type": "item",
-      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "registry_name": "token",
@@ -1776,14 +1661,13 @@
     {
       "name": "Coinsilver",
       "type": "item",
-      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "registry_name": "coinsilver",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/coinsilver.json",
-          "src/main/java/net/mcreator/galaxycore/item/CoinsilverItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/CoinsilverItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/coinsilver.json"
         ]
       },
       "path": "~/Items/Misiones"
@@ -1791,7 +1675,6 @@
     {
       "name": "CoinGold",
       "type": "item",
-      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "registry_name": "coin_gold",
@@ -1806,14 +1689,13 @@
     {
       "name": "Heartblue",
       "type": "item",
-      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heartblue",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/heartblue.json",
-          "src/main/java/net/mcreator/galaxycore/item/HeartblueItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/HeartblueItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/heartblue.json"
         ]
       },
       "path": "~/Items/Misiones"
@@ -1821,14 +1703,13 @@
     {
       "name": "Heartbrown",
       "type": "item",
-      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heartbrown",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/HeartbrownItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/heartbrown.json"
+          "src/main/resources/assets/galaxy_core/models/item/heartbrown.json",
+          "src/main/java/net/mcreator/galaxycore/item/HeartbrownItem.java"
         ]
       },
       "path": "~/Items/Misiones"
@@ -1836,14 +1717,13 @@
     {
       "name": "Heartgreen",
       "type": "item",
-      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heartgreen",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/HeartgreenItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/heartgreen.json"
+          "src/main/resources/assets/galaxy_core/models/item/heartgreen.json",
+          "src/main/java/net/mcreator/galaxycore/item/HeartgreenItem.java"
         ]
       },
       "path": "~/Items/Misiones"
@@ -1851,14 +1731,13 @@
     {
       "name": "Heartgrey",
       "type": "item",
-      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heartgrey",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/heartgrey.json",
-          "src/main/java/net/mcreator/galaxycore/item/HeartgreyItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/HeartgreyItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/heartgrey.json"
         ]
       },
       "path": "~/Items/Misiones"
@@ -1866,14 +1745,13 @@
     {
       "name": "Heartpurple",
       "type": "item",
-      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heartpurple",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/HeartpurpleItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/heartpurple.json"
+          "src/main/resources/assets/galaxy_core/models/item/heartpurple.json",
+          "src/main/java/net/mcreator/galaxycore/item/HeartpurpleItem.java"
         ]
       },
       "path": "~/Items/Misiones"
@@ -1881,7 +1759,6 @@
     {
       "name": "Heartred",
       "type": "item",
-      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heartred",
@@ -1896,14 +1773,13 @@
     {
       "name": "Heartyellow",
       "type": "item",
-      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "registry_name": "heartyellow",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/heartyellow.json",
-          "src/main/java/net/mcreator/galaxycore/item/HeartyellowItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/HeartyellowItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/heartyellow.json"
         ]
       },
       "path": "~/Items/Misiones"
@@ -1911,7 +1787,6 @@
     {
       "name": "Flamepurple",
       "type": "item",
-      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "registry_name": "flamepurple",
@@ -1926,7 +1801,6 @@
     {
       "name": "Orbeblue",
       "type": "item",
-      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orbeblue",
@@ -1941,7 +1815,6 @@
     {
       "name": "Orbebrown",
       "type": "item",
-      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orbebrown",
@@ -1956,7 +1829,6 @@
     {
       "name": "Orbegreen",
       "type": "item",
-      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orbegreen",
@@ -1971,14 +1843,13 @@
     {
       "name": "Orbegrey",
       "type": "item",
-      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orbegrey",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/orbegrey.json",
-          "src/main/java/net/mcreator/galaxycore/item/OrbegreyItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/OrbegreyItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/orbegrey.json"
         ]
       },
       "path": "~/Items/Misiones"
@@ -1986,14 +1857,13 @@
     {
       "name": "Orbepurple",
       "type": "item",
-      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orbepurple",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/orbepurple.json",
-          "src/main/java/net/mcreator/galaxycore/item/OrbepurpleItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/OrbepurpleItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/orbepurple.json"
         ]
       },
       "path": "~/Items/Misiones"
@@ -2001,14 +1871,13 @@
     {
       "name": "Orbered",
       "type": "item",
-      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orbered",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/orbered.json",
-          "src/main/java/net/mcreator/galaxycore/item/OrberedItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/OrberedItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/orbered.json"
         ]
       },
       "path": "~/Items/Misiones"
@@ -2016,14 +1885,13 @@
     {
       "name": "Orbeyellow",
       "type": "item",
-      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "registry_name": "orbeyellow",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/OrbeyellowItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/orbeyellow.json"
+          "src/main/resources/assets/galaxy_core/models/item/orbeyellow.json",
+          "src/main/java/net/mcreator/galaxycore/item/OrbeyellowItem.java"
         ]
       },
       "path": "~/Items/Misiones"
@@ -2031,14 +1899,13 @@
     {
       "name": "Skullblue",
       "type": "item",
-      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "registry_name": "skullblue",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/SkullblueItem.java",
-          "src/main/resources/assets/galaxy_core/models/item/skullblue.json"
+          "src/main/resources/assets/galaxy_core/models/item/skullblue.json",
+          "src/main/java/net/mcreator/galaxycore/item/SkullblueItem.java"
         ]
       },
       "path": "~/Items/Misiones"
@@ -2046,7 +1913,6 @@
     {
       "name": "Skullbrown",
       "type": "item",
-      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "registry_name": "skullbrown",
@@ -2061,7 +1927,6 @@
     {
       "name": "Skullgreen",
       "type": "item",
-      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "registry_name": "skullgreen",
@@ -2076,14 +1941,13 @@
     {
       "name": "Skullgrey",
       "type": "item",
-      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "registry_name": "skullgrey",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/skullgrey.json",
-          "src/main/java/net/mcreator/galaxycore/item/SkullgreyItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/SkullgreyItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/skullgrey.json"
         ]
       },
       "path": "~/Items/Misiones"
@@ -2091,14 +1955,13 @@
     {
       "name": "Skullpurple",
       "type": "item",
-      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "registry_name": "skullpurple",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/skullpurple.json",
-          "src/main/java/net/mcreator/galaxycore/item/SkullpurpleItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/SkullpurpleItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/skullpurple.json"
         ]
       },
       "path": "~/Items/Misiones"
@@ -2106,7 +1969,6 @@
     {
       "name": "Skullyellow",
       "type": "item",
-      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "registry_name": "skullyellow",
@@ -2121,7 +1983,6 @@
     {
       "name": "Skullred",
       "type": "item",
-      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "registry_name": "skullred",
@@ -2136,7 +1997,6 @@
     {
       "name": "Trebol",
       "type": "item",
-      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "registry_name": "trebol",
@@ -2151,35 +2011,32 @@
     {
       "name": "Infinityswordbalanced",
       "type": "tool",
-      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "registry_name": "infinityswordbalanced",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/infinityswordbalanced.json",
-          "src/main/java/net/mcreator/galaxycore/item/InfinityswordbalancedItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/InfinityswordbalancedItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/infinityswordbalanced.json"
         ]
       }
     },
     {
       "name": "Infinitysword1",
       "type": "tool",
-      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "registry_name": "infinitysword_1",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/item/Infinitysword1Item.java",
-          "src/main/resources/assets/galaxy_core/models/item/infinitysword_1.json"
+          "src/main/resources/assets/galaxy_core/models/item/infinitysword_1.json",
+          "src/main/java/net/mcreator/galaxycore/item/Infinitysword1Item.java"
         ]
       }
     },
     {
       "name": "Infinity1pick",
       "type": "tool",
-      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "registry_name": "infinity_1pick",
@@ -2193,7 +2050,6 @@
     {
       "name": "Tessssssst",
       "type": "procedure",
-      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tessssssst",
@@ -2212,7 +2068,6 @@
     {
       "name": "AbsolutePlate",
       "type": "item",
-      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "registry_name": "absolute_plate",
@@ -2226,21 +2081,19 @@
     {
       "name": "Cacota",
       "type": "item",
-      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cacota",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/cacota.json",
-          "src/main/java/net/mcreator/galaxycore/item/CacotaItem.java"
+          "src/main/java/net/mcreator/galaxycore/item/CacotaItem.java",
+          "src/main/resources/assets/galaxy_core/models/item/cacota.json"
         ]
       }
     },
     {
       "name": "Damedinero",
       "type": "command",
-      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "registry_name": "damedinero",
@@ -2253,7 +2106,6 @@
     {
       "name": "Msgdinero",
       "type": "procedure",
-      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "registry_name": "msgdinero",
@@ -2272,7 +2124,6 @@
     {
       "name": "Enterserver",
       "type": "achievement",
-      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "registry_name": "enterserver",
@@ -2285,7 +2136,6 @@
     {
       "name": "Eresunviciao",
       "type": "achievement",
-      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "registry_name": "eresunviciao",
@@ -2298,7 +2148,6 @@
     {
       "name": "SuperCacotas",
       "type": "achievement",
-      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "registry_name": "super_cacotas",
@@ -2311,7 +2160,6 @@
     {
       "name": "Caca",
       "type": "recipe",
-      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "registry_name": "caca",
@@ -2325,16 +2173,16 @@
     {
       "name": "GalaxyPopNadien",
       "type": "block",
-      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "registry_name": "galaxy_pop_nadien",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/galaxycore/block/GalaxyPopNadienBlock.java",
-          "src/main/resources/assets/galaxy_core/models/item/galaxy_pop_nadien.json",
           "src/main/resources/assets/galaxy_core/blockstates/galaxy_pop_nadien.json",
-          "src/main/resources/assets/galaxy_core/models/block/galaxy_pop_nadien.json"
+          "src/main/resources/assets/galaxy_core/models/block/galaxy_pop_nadien.json",
+          "src/main/resources/data/galaxy_core/loot_tables/blocks/galaxy_pop_nadien.json",
+          "src/main/java/net/mcreator/galaxycore/block/GalaxyPopNadienBlock.java",
+          "src/main/resources/assets/galaxy_core/models/item/galaxy_pop_nadien.json"
         ]
       },
       "path": "~/Bloques"
@@ -2342,16 +2190,33 @@
     {
       "name": "FunkitoNadien",
       "type": "block",
-      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "registry_name": "funkito_nadien",
       "metadata": {
         "files": [
-          "src/main/resources/assets/galaxy_core/models/item/funkito_nadien.json",
           "src/main/resources/assets/galaxy_core/models/block/funkito_nadien.json",
-          "src/main/resources/assets/galaxy_core/blockstates/funkito_nadien.json",
-          "src/main/java/net/mcreator/galaxycore/block/FunkitoNadienBlock.java"
+          "src/main/resources/data/galaxy_core/loot_tables/blocks/funkito_nadien.json",
+          "src/main/java/net/mcreator/galaxycore/block/FunkitoNadienBlock.java",
+          "src/main/resources/assets/galaxy_core/models/item/funkito_nadien.json",
+          "src/main/resources/assets/galaxy_core/blockstates/funkito_nadien.json"
+        ]
+      },
+      "path": "~/Bloques"
+    },
+    {
+      "name": "GalaxyOre",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "galaxy_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/galaxy_core/loot_tables/blocks/galaxy_ore.json",
+          "src/main/resources/assets/galaxy_core/models/item/galaxy_ore.json",
+          "src/main/resources/assets/galaxy_core/models/block/galaxy_ore.json",
+          "src/main/java/net/mcreator/galaxycore/block/GalaxyOreBlock.java",
+          "src/main/resources/assets/galaxy_core/blockstates/galaxy_ore.json"
         ]
       },
       "path": "~/Bloques"
@@ -2391,6 +2256,68 @@
       "subtitle": ""
     }
   ],
+  "tag_elements": {
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:Infinity1pick",
+      "~CUSTOM:VanguardPickaxe",
+      "~CUSTOM:Braveheartpickaxe",
+      "~CUSTOM:HellfirePickaxe"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:VanguardAxe",
+      "~CUSTOM:BraveheartAxe",
+      "~CUSTOM:VolcanicAxe",
+      "~CUSTOM:HellfirePickaxe"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:Infinitysword1",
+      "~CUSTOM:Infinityswordbalanced",
+      "~CUSTOM:VanguardSword",
+      "~CUSTOM:BraveheartSword",
+      "~CUSTOM:Braveheart",
+      "~CUSTOM:VolcanicBlade",
+      "~CUSTOM:FrozenBlade",
+      "~CUSTOM:IronheartSword",
+      "~CUSTOM:HellfirePickaxe",
+      "~CUSTOM:HellfireSword",
+      "~CUSTOM:GoldenBlade",
+      "~CUSTOM:Guantelete"
+    ],
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:McCaco"
+    ]
+  },
+  "tab_element_order": {
+    "CUSTOM:GalaxyTab": [
+      "Starlight",
+      "CajitaFeliz",
+      "MonsterEnergy",
+      "Sandwichito",
+      "AmethystStarlight",
+      "Guantelete",
+      "SexyXD",
+      "Doritos",
+      "GoldenBlade",
+      "Panchito",
+      "Pruebaa",
+      "Cofrecito",
+      "Bloque",
+      "KeyRojo",
+      "KeyAmarilla",
+      "KeyMadera",
+      "KeyRosa",
+      "KeyMorada",
+      "KeyVerde",
+      "Skullpurple",
+      "Trebol",
+      "FunkitoNadien",
+      "Hub",
+      "Hub1",
+      "Hub2",
+      "Hub3",
+      "Hub4"
+    ]
+  },
   "language_map": {
     "en_us": {
       "item.galaxy_core.mini_reactor": "Mini Reactor",
@@ -2410,13 +2337,13 @@
       "item.galaxy_core.hub_2": "§6Galaxy coin §cred",
       "item.galaxy_core.end_steel_nugget": "End Steel Nugget",
       "item.galaxy_core.redstone_alloy_nugget": "Redstone Alloy Nugget",
-      "item.galaxy_core.lingote_neutral_tier_1": "Lingote Neutral Tier 1",
       "item.galaxy_core.vanguardsword": "§3Vanguard §bsword",
+      "item.galaxy_core.lingote_neutral_tier_1": "Lingote Neutral Tier 1",
       "item.galaxy_core.heartyellow": "Heart yellow",
       "item.galaxy_core.pepita_pulsante": "Pepita Pulsante",
       "item.galaxy_core.hierro_pulsante": "Hierro Pulsante",
-      "item.galaxy_core.volcanicaxe": "Volcanic Axe",
       "item.galaxy_core.agujero_negro": "Agujero Negro",
+      "item.galaxy_core.volcanicaxe": "Volcanic Axe",
       "item.galaxy_core.brujula_maldita": "Brujula Maldita",
       "item.galaxy_core.transmisor": "Transmisor",
       "item.galaxy_core.orbepurple": "Orbepurple",
@@ -2483,14 +2410,15 @@
       "advancements.eresunviciao.descr": "Viaciao",
       "block.galaxy_core.galaxy_pop_nadien": "Galaxy Pop Nadien",
       "item.galaxy_core.orbegrey": "Orbe grey",
-      "item_group.galaxy_core.galaxy_armas": "galaxy armas",
+      "item_group.galaxy_core.galaxy_armas": "Galaxy Armas",
       "item.galaxy_core.hubgreen": "§6Galaxy coin §agreen",
-      "item_group.galaxy_core.galaxy_ores": "galaxy ores",
+      "item_group.galaxy_core.galaxy_ores": "Galaxy Ores",
       "item.galaxy_core.key_rojo": "key red",
       "item.galaxy_core.cacota": "Cacota",
       "item.galaxy_core.mc_caco.desc": "cajita feliz",
       "item.galaxy_core.stellar_alloy": "Stellar Alloy",
       "item.galaxy_core.vibrant_alloy": "Vibrant Alloy",
+      "block.galaxy_core.galaxy_ore": "Galaxy Ore",
       "item.galaxy_core.combustible_radiactivo": "Combustible Radiactivo",
       "item.galaxy_core.pepita_energetica": "Pepita Energetica",
       "item.galaxy_core.end_steel_alloy": "End Steel Alloy",
@@ -2565,10 +2493,6 @@
       {
         "name": "Bloques",
         "children": []
-      },
-      {
-        "name": "Monsters",
-        "children": []
       }
     ]
   },
@@ -2579,7 +2503,6 @@
     "author": "L4inx, Nadien",
     "websiteURL": "https://tienda.galaxyorigins.com/",
     "license": "All Rights Reserved",
-    "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],
@@ -2587,8 +2510,7 @@
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.20.1",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
-    "modElementsPackage": "net.mcreator.galaxycore",
-    "lockBaseModFiles": false
+    "modElementsPackage": "net.mcreator.galaxycore"
   },
-  "mcreatorVersion": 202300452316
+  "mcreatorVersion": 202400232117
 }

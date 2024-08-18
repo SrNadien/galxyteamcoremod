@@ -10,13 +10,18 @@ displayURL="https://tienda.galaxyorigins.com/"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 authors="L4inx, Nadien"
 
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
 [[dependencies.galaxy_core]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.20.1]"
-    ordering="NONE"
+    ordering="AFTER"
     side="BOTH"
 
 
 
 
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

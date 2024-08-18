@@ -128,21 +128,13 @@ import net.mcreator.galaxycore.GalaxyCoreMod;
 
 public class GalaxyCoreModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, GalaxyCoreMod.MODID);
+	public static final RegistryObject<Item> HUB = REGISTRY.register("hub", () -> new HubItem());
 	public static final RegistryObject<Item> STARLIGHT = REGISTRY.register("starlight", () -> new StarlightItem());
-	public static final RegistryObject<Item> AMETHYST_STARLIGHT = REGISTRY.register("amethyst_starlight", () -> new AmethystStarlightItem());
 	public static final RegistryObject<Item> CAJITA_FELIZ = REGISTRY.register("cajita_feliz", () -> new CajitaFelizItem());
 	public static final RegistryObject<Item> MONSTER_ENERGY = REGISTRY.register("monster_energy", () -> new MonsterEnergyItem());
 	public static final RegistryObject<Item> SANDWICHITO = REGISTRY.register("sandwichito", () -> new SandwichitoItem());
-	public static final RegistryObject<Item> DORITOS = REGISTRY.register("doritos", () -> new DoritosItem());
+	public static final RegistryObject<Item> AMETHYST_STARLIGHT = REGISTRY.register("amethyst_starlight", () -> new AmethystStarlightItem());
 	public static final RegistryObject<Item> GUANTELETE = REGISTRY.register("guantelete", () -> new GuanteleteItem());
-	public static final RegistryObject<Item> GOLDEN_BLADE = REGISTRY.register("golden_blade", () -> new GoldenBladeItem());
-	public static final RegistryObject<Item> HUB_2 = REGISTRY.register("hub_2", () -> new Hub2Item());
-	public static final RegistryObject<Item> HUB = REGISTRY.register("hub", () -> new HubItem());
-	public static final RegistryObject<Item> HUBGREEN = REGISTRY.register("hubgreen", () -> new Hub3Item());
-	public static final RegistryObject<Item> HUB_4 = REGISTRY.register("hub_4", () -> new Hub4Item());
-	public static final RegistryObject<Item> HUB_1 = REGISTRY.register("hub_1", () -> new Hub1Item());
-	public static final RegistryObject<Item> SEXY_XD = block(GalaxyCoreModBlocks.SEXY_XD);
-	public static final RegistryObject<Item> PANCHITO = REGISTRY.register("panchito", () -> new PanchitoItem());
 	public static final RegistryObject<Item> CATALIZADOR = REGISTRY.register("catalizador", () -> new CatalizadorItem());
 	public static final RegistryObject<Item> BRUJULA_MALDITA = REGISTRY.register("brujula_maldita", () -> new BrujulaMalditaItem());
 	public static final RegistryObject<Item> CALAVERA_OSCURA = REGISTRY.register("calavera_oscura", () -> new CalaveraOscuraItem());
@@ -160,34 +152,42 @@ public class GalaxyCoreModItems {
 	public static final RegistryObject<Item> SUPER_SEMILLA = REGISTRY.register("super_semilla", () -> new SuperSemillaItem());
 	public static final RegistryObject<Item> MUNECO_DE_PAJA = REGISTRY.register("muneco_de_paja", () -> new MunecoDePajaItem());
 	public static final RegistryObject<Item> BUSCADOR_DEL_UNIVERSO = REGISTRY.register("buscador_del_universo", () -> new BuscadorDelUniversoItem());
-	public static final RegistryObject<Item> MONEDA = REGISTRY.register("moneda", () -> new MonedaItem());
-	public static final RegistryObject<Item> SUPER_CACA = REGISTRY.register("super_caca", () -> new SuperCacaItem());
-	public static final RegistryObject<Item> MC_CACO = REGISTRY.register("mc_caco", () -> new McCacoItem());
+	public static final RegistryObject<Item> HUB_1 = REGISTRY.register("hub_1", () -> new Hub1Item());
 	public static final RegistryObject<Item> LINGOTE_NEUTRAL_TIER_1 = REGISTRY.register("lingote_neutral_tier_1", () -> new LingoteNeutralTier1Item());
+	public static final RegistryObject<Item> SEXY_XD = block(GalaxyCoreModBlocks.SEXY_XD);
+	public static final RegistryObject<Item> DORITOS = REGISTRY.register("doritos", () -> new DoritosItem());
+	public static final RegistryObject<Item> MONEDA = REGISTRY.register("moneda", () -> new MonedaItem());
 	public static final RegistryObject<Item> HIERRO_PULSANTE = REGISTRY.register("hierro_pulsante", () -> new HierroPulsanteItem());
 	public static final RegistryObject<Item> REDSTONE_ALLOY = REGISTRY.register("redstone_alloy", () -> new RedstoneAlloyItem());
 	public static final RegistryObject<Item> ENERGETIC_ALLOY = REGISTRY.register("energetic_alloy", () -> new EnergeticAlloyItem());
 	public static final RegistryObject<Item> VIBRANT_ALLOY = REGISTRY.register("vibrant_alloy", () -> new VibrantAlloyItem());
 	public static final RegistryObject<Item> SOULARIUM = REGISTRY.register("soularium", () -> new SoulariumItem());
 	public static final RegistryObject<Item> STELLAR_ALLOY = REGISTRY.register("stellar_alloy", () -> new StellarAlloyItem());
-	public static final RegistryObject<Item> HIERRO_CONDUCTOR = REGISTRY.register("hierro_conductor", () -> new HierroConductorItem());
-	public static final RegistryObject<Item> MELODIC_ALLOY = REGISTRY.register("melodic_alloy", () -> new MelodicAlloyItem());
-	public static final RegistryObject<Item> DARK_STEEL = REGISTRY.register("dark_steel", () -> new DarkSteelItem());
-	public static final RegistryObject<Item> END_STEEL_ALLOY = REGISTRY.register("end_steel_alloy", () -> new EndSteelAlloyItem());
-	public static final RegistryObject<Item> ENDERIUM_BASE = REGISTRY.register("enderium_base", () -> new EnderiumBaseItem());
-	public static final RegistryObject<Item> ELECTRICALSTEEL_INGOT = REGISTRY.register("electricalsteel_ingot", () -> new ElectricalsteelIngotItem());
 	public static final RegistryObject<Item> PEPITA_PULSANTE = REGISTRY.register("pepita_pulsante", () -> new PepitaPulsanteItem());
 	public static final RegistryObject<Item> PEPITA_ENERGETICA = REGISTRY.register("pepita_energetica", () -> new PepitaEnergeticaItem());
 	public static final RegistryObject<Item> PEPITA_VIBRANTE = REGISTRY.register("pepita_vibrante", () -> new PepitaVibranteItem());
 	public static final RegistryObject<Item> PEPITA_DE_ALMAS = REGISTRY.register("pepita_de_almas", () -> new PepitaDeAlmasItem());
 	public static final RegistryObject<Item> PEPITA_ESTELAR = REGISTRY.register("pepita_estelar", () -> new PepitaEstelarItem());
+	public static final RegistryObject<Item> HIERRO_CONDUCTOR = REGISTRY.register("hierro_conductor", () -> new HierroConductorItem());
 	public static final RegistryObject<Item> PEPITA_CONDUCTORA = REGISTRY.register("pepita_conductora", () -> new PepitaConductoraItem());
+	public static final RegistryObject<Item> MELODIC_ALLOY = REGISTRY.register("melodic_alloy", () -> new MelodicAlloyItem());
 	public static final RegistryObject<Item> MELODIC_ALLOY_NUGGET = REGISTRY.register("melodic_alloy_nugget", () -> new MelodicAlloyNuggetItem());
+	public static final RegistryObject<Item> DARK_STEEL = REGISTRY.register("dark_steel", () -> new DarkSteelItem());
 	public static final RegistryObject<Item> DARK_STEEL_NUGGET = REGISTRY.register("dark_steel_nugget", () -> new DarkSteelNuggetItem());
+	public static final RegistryObject<Item> END_STEEL_ALLOY = REGISTRY.register("end_steel_alloy", () -> new EndSteelAlloyItem());
 	public static final RegistryObject<Item> END_STEEL_NUGGET = REGISTRY.register("end_steel_nugget", () -> new EndSteelNuggetItem());
+	public static final RegistryObject<Item> ENDERIUM_BASE = REGISTRY.register("enderium_base", () -> new EnderiumBaseItem());
+	public static final RegistryObject<Item> SUPER_CACA = REGISTRY.register("super_caca", () -> new SuperCacaItem());
 	public static final RegistryObject<Item> REDSTONE_ALLOY_NUGGET = REGISTRY.register("redstone_alloy_nugget", () -> new RedstoneAlloyNuggetItem());
+	public static final RegistryObject<Item> GOLDEN_BLADE = REGISTRY.register("golden_blade", () -> new GoldenBladeItem());
+	public static final RegistryObject<Item> HUB_2 = REGISTRY.register("hub_2", () -> new Hub2Item());
+	public static final RegistryObject<Item> HUBGREEN = REGISTRY.register("hubgreen", () -> new Hub3Item());
+	public static final RegistryObject<Item> HUB_4 = REGISTRY.register("hub_4", () -> new Hub4Item());
+	public static final RegistryObject<Item> MC_CACO = REGISTRY.register("mc_caco", () -> new McCacoItem());
 	public static final RegistryObject<Item> HELLFIRESWORD = REGISTRY.register("hellfiresword", () -> new HellfireSwordItem());
 	public static final RegistryObject<Item> HELLFIREPICKAXE = REGISTRY.register("hellfirepickaxe", () -> new HellfirePickaxeItem());
+	public static final RegistryObject<Item> PANCHITO = REGISTRY.register("panchito", () -> new PanchitoItem());
+	public static final RegistryObject<Item> ELECTRICALSTEEL_INGOT = REGISTRY.register("electricalsteel_ingot", () -> new ElectricalsteelIngotItem());
 	public static final RegistryObject<Item> ELECTRICAL_STEEL_NUGGET = REGISTRY.register("electrical_steel_nugget", () -> new ElectricalSteelNuggetItem());
 	public static final RegistryObject<Item> PRUEBAA = block(GalaxyCoreModBlocks.PRUEBAA);
 	public static final RegistryObject<Item> COFRECITO = REGISTRY.register("cofrecito", () -> new CofrecitoItem());
@@ -245,7 +245,10 @@ public class GalaxyCoreModItems {
 	public static final RegistryObject<Item> CACOTA = REGISTRY.register("cacota", () -> new CacotaItem());
 	public static final RegistryObject<Item> GALAXY_POP_NADIEN = block(GalaxyCoreModBlocks.GALAXY_POP_NADIEN);
 	public static final RegistryObject<Item> FUNKITO_NADIEN = block(GalaxyCoreModBlocks.FUNKITO_NADIEN);
+	public static final RegistryObject<Item> GALAXY_ORE = block(GalaxyCoreModBlocks.GALAXY_ORE);
 
+	// Start of user code block custom items
+	// End of user code block custom items
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
 	}
